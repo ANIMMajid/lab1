@@ -4,3 +4,5 @@ Dalam Branch 1
 
 Tambah dalam main
 
+merge dengan branch1
+
